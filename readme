@@ -7,7 +7,7 @@ Getting Started
 To get started with Docker, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/your-username/learn-docker.git
+git clone https://github.com/AmTripathiDev/Learn-Docker-Caching-and-Layers-.git
 
 Explore the Dockerfile:
 The Dockerfile in this repository demonstrates best practices for creating Docker images. Take a look at the comments within the file to understand each step.
